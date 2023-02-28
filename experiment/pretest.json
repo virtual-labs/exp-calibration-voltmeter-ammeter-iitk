@@ -34,7 +34,7 @@
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
-    }
+    },
     {
       "question": "Which one of the following is used to measure direct current? ",
       "answers": {
@@ -49,8 +49,7 @@
         "c": "Multimeter is used to calculate the DC current for measuremnet of Direct curent ",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
-      "correctAnswer": "b",
+      "correctAnswer": "c",      
       "difficulty": "beginner"
     },
 {
