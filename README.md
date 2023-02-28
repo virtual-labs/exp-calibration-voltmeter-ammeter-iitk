@@ -1,24 +1,24 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Electrical Engineerinng
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Basic Electrical Engineering Lab
+<b> Experiment|     <b> Calibration of AC Voltmeter and AC Ammeter and Experiment 19
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+
+<b>Name of Developer | <b> Krishna Maddheshiya 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>Rajkiya Engineering College Banda  
+<b> Email id|     <b> 20279@recbanda.ac.in 
+<b> Department |  Electrical Engineering
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 |Ashutosh Tiwari |Faculty |Applied Science and Humanity Department |Rajkiya Engineering College Banda |ashutosh.tiwari@recbanda.ac.in
+2 |Adarsh |Student |Information Technology |Rajkiya Engineering College Banda |Adarshsingh2508@gmail.com
