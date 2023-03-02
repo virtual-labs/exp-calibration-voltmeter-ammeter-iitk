@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "An Ammeter is connected in ---------- with the circuit",
+      "question": "1. An Ammeter is connected in ---------- with the circuit",
       "answers": {
         "a": "Parallel",
         "b": "Both parallel and series",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "In a circuit , voltmeter is always connected in ",
+      "question": "2. In a circuit , voltmeter is always connected in ",
       "answers": {
         "a": "Triangular",
         "b": "Parallel",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which one of the following is used to measure direct current? ",
+      "question": "3. Which one of the following is used to measure direct current? ",
       "answers": {
         "a": "Voltmeter",
         "b": "Ammeter ",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
 {
-      "question": "Voltmeter is used for measuring_________ ",
+      "question": "4. Voltmeter is used for measuring_________ ",
       "answers": {
         "a": "Current ",
         "b": "Voltage ",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
 {
-      "question": "Calibration is used for measuring_____",
+      "question": "5. Calibration is used for measuring_____",
       "answers": {
         "a": "Accuracy",
         "b": "Precision",
