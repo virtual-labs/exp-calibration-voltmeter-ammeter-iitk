@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. An Ammeter is connected in ---------- with the circuit",
+      "answers": {
+        "a": "Parallel",
+        "b": "Both parallel and series",
+        "c": "series",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "An ammeter is connected in series because same current will flow in the circuit to calculate the current it must be connected in series",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. In a circuit , voltmeter is always connected in ",
+      "answers": {
+        "a": "Triangular",
+        "b": "Parallel",
+        "c": "Series",
+        "d": " Either series or parallel"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Voltmeter is connected in parallel bacause voltage is same in parallel circuit",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Which one of the following is used to measure direct current? ",
+      "answers": {
+        "a": "Voltmeter",
+        "b": "Ammeter ",
+        "c": "Multimeter",
+        "d": " Coupler"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "for measurement of DC current  we generaly used multimeter where aas ammeter as name suggest it uses many function ",
+        "c": "Multimeter is used to calculate the DC current for measuremnet of Direct curent ",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",      
+      "difficulty": "beginner"
+    },
+{
+      "question": "4. Voltmeter is used for measuring_________ ",
+      "answers": {
+        "a": "Current ",
+        "b": "Voltage ",
+        "c": "Resisitance ",
+        "d": "Power "
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Voltmeter is used to measure voltage in the circuit",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+{
+      "question": "5. Calibration is used for measuring_____",
+      "answers": {
+        "a": "Accuracy",
+        "b": "Precision",
+        "c": "  Deflection",
+        "d": " None of these"
+      },
+      "explanations": {
+        "a": "Clibration is used for meaasuring accuracy of the system ",
+        "b": "Explanation 2 ",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Internal resistance of an ideal ammeter is",
+      "answers": {
+        "a": "Zero",
+        "b": "Infinte",
+        "c": "Small",
+        "d": "Big"
+      },
+      "explanations": {
+        "a": "Internal resistance of an ideal voltmeter is zero because ressistance add when it are connected in series",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Which instrument has the lowest resistance",
+      "answers": {
+        "a": "Ammeter",
+        "b": "Voltmeter",
+        "c": "Megger",
+        "d": "Frequency Meter"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Which of the following is not correct?",
+      "answers": {
+        "a": "Voltmeter should have a very high resistance ",
+        "b": "An ammeter should have a very low resistance ",
+        "c": "A shunt should have a very low resistance",
+        "d": "An electronic voltmeter draws appreciable current from source"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Internal resistance of ideal voltmeter is",
+      "answers": {
+        "a": "Big",
+        "b": "Small",
+        "c": "Infinite",
+        "d": "Zero"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Error of the measurement is the difference between",
+      "answers": {
+        "a": "True value and measured value ",
+        "b": "Precision and true value",
+        "c": "Measured value and precision",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
