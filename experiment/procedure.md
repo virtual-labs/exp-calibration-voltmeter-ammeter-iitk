@@ -49,8 +49,3 @@
 
 6. **Repeat if Necessary:**
    - Check the consistency of readings and repeat the measurements if needed.
-
----
-
-## Conclusion:
-- After performing the calibration steps for both the ammeter and voltmeter, evaluate the percentage errors and assess the accuracy of the instruments. This procedure ensures the proper functioning of the measuring devices in an AC circuit.
