@@ -9,7 +9,7 @@ Calibration of Voltmeter is the process of checking the accuracy of the reading 
 % Error Voltmeter = [(V<sub>t</sub> - V<sub>s</sub>)/V<sub>s</sub>] * 100 <br>
 where, <br>
 V<sub>t</sub> = Test value <br>
-V<sub>s</sub> = Standard value<br>
+V<sub>s</sub> = Standard value<br><br>
 
 <b>Calibration of ammeter :</b><br><br>
 Calibration of Ammeter is the process of checking the accuracy of the reading of the ammeter under test (A<sub>t</sub>) by comparing it with the standard Ammeter (A<sub>s</sub>) one. In other words, calibration checks the correctness of the instrument by comparing it with the reference standard. <br><br>
