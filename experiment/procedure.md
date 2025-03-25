@@ -1,6 +1,6 @@
-# Procedure for Calibration of AC Voltmeter and AC Ammeter
+<b>Procedure for Calibration of AC Voltmeter and AC Ammeter : </b>
 
-## Calibration of Ammeter:
+<b>Calibration of Ammeter : </b>
 
 1. **Set Up the Circuit:**
    - Connect the circuit as per the given diagram.
@@ -25,7 +25,7 @@
 
 ---
 
-## Calibration of Voltmeter:
+<b>Calibration of Voltmeter : </b>
 
 1. **Set Up the Circuit:**
    - Connect the circuit as per the given diagram.

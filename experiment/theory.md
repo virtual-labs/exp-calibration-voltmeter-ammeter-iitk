@@ -1,17 +1,24 @@
-The calibration is the process of checking the accuracy of the result by comparing it with the standard value.<br> In other words, calibration checks the correctness of the instrument by comparing it with the reference standard.<br> It helps us in determining the error occurring in the reading and adjusts the voltages for getting the ideal reading.<br><h4>Percentage Error:  [(T-S)/S]*100 </h4>
-  where : T= Test value<br>
-              S= Standard value
- <h3>Calibration of voltmeter:</h3><br>Calibration of Voltmeter is the process of checking the accuracy of the reading of the Voltmeter under <br>test (Vt) by comparing it with the standard 
-Voltmeter (Vs) one.<br> In other words, calibration checks the correctness of the instrument by comparing it with the reference standard
+The calibration is the process of checking the accuracy of the result by comparing it with the standard value. In other words, calibration checks the correctness of the instrument by comparing it with the reference standard. It helps us in determining the error occurring in the reading and adjusts the voltages for getting the ideal reading.<br><br>
+Percentage Error :  [(T-S)/S]*100 <br>
+where,
+T= Test value <br>
+S= Standard value <br><br>
 
-<img src= "images/ex19_1.png" >
-where :    Vt = Test value       Vs = Standard value
-<h3>Calibration of ammeter:</h3><br>
-Calibration of Ammeter is the process of checking the accuracy of the reading of the ammeter under <br>test (At) by comparing it with the standard 
-Ammeter (As) one. <br>In other words, calibration checks the correctness of the instrument by comparing it with the reference standard<br>
-%Error Ammeter =  [(  At - As )/ As ]x100<br>
-where :    At = Test value       As = Standard value<br>
- <h2>Circuit Diagram.</h2>
+<b>Calibration of voltmeter:</b><br>
+Calibration of Voltmeter is the process of checking the accuracy of the reading of the Voltmeter under test (V<sub>t</sub>) by comparing it with the standard Voltmeter (V<sub>s</sub>) one. In other words, calibration checks the correctness of the instrument by comparing it with the reference standard. <br>
+
+<img src= "images/ex19_1.png" > <br>
+where, <br>
+V<sub>t</sub> = Test value <br>
+V<sub>s</sub> = Standard value<br>
+
+<b>Calibration of ammeter:</b><br>
+Calibration of Ammeter is the process of checking the accuracy of the reading of the ammeter under test (A<sub>t</sub>) by comparing it with the standard Ammeter (A<sub>s</sub>) one. In other words, calibration checks the correctness of the instrument by comparing it with the reference standard. <br><br>
+%Error Ammeter =  [(  At - As )/ As ]x100 <br>
+where,<br>
+A<sub>t</sub> = Test value <br>
+A<sub>s</sub> = Standard value<br><br>
+<b>Circuit Diagram.</b> <br>
 
 <img src="images/ex19_2.png">
 
