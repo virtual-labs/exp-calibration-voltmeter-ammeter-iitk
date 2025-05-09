@@ -10,10 +10,10 @@
         "d": "None of these"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "An ammeter is connected in series because same current will flow in the circuit to calculate the current it must be connected in series",
-        "d": "Explanation"
+        "a": "Incorrect. Connecting an ammeter in parallel could damage it due to low internal resistance.",
+        "b": "Incorrect. An ammeter is only connected in series to measure current accurately.",
+        "c": "An ammeter is connected in series because same current will flow in the circuit. To calculate the current it must be connected in series.",
+        "d": "Incorrect. Ammeter must be connected in series."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "Either series or parallel"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Voltmeter is connected in parallel bacause voltage is same in parallel circuit",
-        "c": "Explanation",
-        "d": "Explanation"
+        "a": "Incorrect. 'Triangular' is not a valid circuit configuration.",
+        "b": "Voltmeter is connected in parallel because voltage is same in parallel circuits.",
+        "c": "Incorrect. Voltmeter in series would affect circuit current due to high resistance.",
+        "d": "Incorrect. A voltmeter is *only* connected in parallel."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -44,15 +44,15 @@
         "d": "Coupler"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "for measurement of DC current  we generaly used multimeter where aas ammeter as name suggest it uses many function ",
-        "c": "Multimeter is used to calculate the DC current for measuremnet of Direct curent ",
-        "d": "Explanation"
+        "a": "Incorrect. Voltmeter is used to measure voltage, not current.",
+        "b": "Ammeter is specifically designed to measure current, including direct current.",
+        "c": "Multimeter is used to calculate DC current along with other parameters like voltage and resistance.",
+        "d": "Incorrect. A coupler is not used for measuring current; it's used for signal transfer."
       },
-      "correctAnswer": "c",      
+      "correctAnswer": "b,c",
       "difficulty": "beginner"
     },
-{
+    {
       "question": "4. Voltmeter is used for measuring_________ ",
       "answers": {
         "a": "Current ",
@@ -61,15 +61,15 @@
         "d": "Power "
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Voltmeter is used to measure voltage in the circuit",
-        "c": "Explanation",
-        "d": "Explanation"
+        "a": "Incorrect. Current is measured using an ammeter.",
+        "b": "Correct. A voltmeter is used to measure voltage in the circuit.",
+        "c": "Incorrect. Resistance is measured using an ohmmeter or multimeter.",
+        "d": "Incorrect. Power is calculated using voltage and current, not directly measured with a voltmeter."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
-{
+    {
       "question": "5. Calibration is used for measuring_____",
       "answers": {
         "a": "Accuracy",
@@ -78,10 +78,10 @@
         "d": " None of these"
       },
       "explanations": {
-        "a": "Clibration is used for meaasuring accuracy of the system ",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
+        "a": "Calibration is used for measuring and improving the accuracy of an instrument or system.",
+        "b": "Incorrect. Precision refers to repeatability, not accuracy, and is not directly assessed through calibration.",
+        "c": "Incorrect. Deflection refers to needle movement in analog devices and is not the focus of calibration.",
+        "d": "Incorrect. Accuracy is the correct answer."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
