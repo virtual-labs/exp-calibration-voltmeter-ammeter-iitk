@@ -40,16 +40,16 @@
       "answers": {
         "a": "Voltmeter",
         "b": "Ammeter ",
-        "c": "Multimeter",
+        "c": "Ohmmeter",
         "d": "Coupler"
       },
       "explanations": {
         "a": "Incorrect. Voltmeter is used to measure voltage, not current.",
         "b": "Ammeter is specifically designed to measure current, including direct current.",
-        "c": "Multimeter is used to calculate DC current along with other parameters like voltage and resistance.",
+        "c": "Incorrect. Ohmmeter is used to measure resistance, not current.",
         "d": "Incorrect. A coupler is not used for measuring current; it's used for signal transfer."
       },
-      "correctAnswer": "b,c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
