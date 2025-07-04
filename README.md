@@ -23,3 +23,5 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 |Krishna Maddheshiya |Student |Electrical Engineering |Rajkiya Engineering College Banda |krishna70680@gmail.com
 2 |Adarsh |Student |Information Technology |Rajkiya Engineering College Banda |adarshsingh2508@gmail.com
+3 |Saurabh Kumar Saroj |Student |Information Technology |Rajkiya Engineering College Banda |2307340130051@recbanda.ac.in
+4 |Neeraj Kumar |Student |Information Technology |Rajkiya Engineering College Banda |2307340130030@recbanda.ac.in
