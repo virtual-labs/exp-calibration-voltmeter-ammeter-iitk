@@ -2,37 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. An Ammeter is connected in ---------- with the circuit",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Parallel",
+        "b": "Both parallel and series",
+        "c": "series",
+        "d": "None of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. Connecting an ammeter in parallel could damage it due to low internal resistance.",
+        "b": "Incorrect. An ammeter is only connected in series to measure current accurately.",
+        "c": "An ammeter is connected in series because same current will flow in the circuit. To calculate the current it must be connected in series.",
+        "d": "Incorrect. Ammeter must be connected in series."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. In a circuit , voltmeter is always connected in ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Triangular",
+        "b": "Parallel",
+        "c": "Series",
+        "d": "Either series or parallel"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. 'Triangular' is not a valid circuit configuration.",
+        "b": "Voltmeter is connected in parallel because voltage is same in parallel circuits.",
+        "c": "Incorrect. Voltmeter in series would affect circuit current due to high resistance.",
+        "d": "Incorrect. A voltmeter is *only* connected in parallel."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Which one of the following is used to measure direct current? ",
+      "answers": {
+        "a": "Voltmeter",
+        "b": "Ammeter ",
+        "c": "Ohmmeter",
+        "d": "Coupler"
+      },
+      "explanations": {
+        "a": "Incorrect. Voltmeter is used to measure voltage, not current.",
+        "b": "Ammeter is specifically designed to measure current, including direct current.",
+        "c": "Incorrect. Ohmmeter is used to measure resistance, not current.",
+        "d": "Incorrect. A coupler is not used for measuring current; it's used for signal transfer."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Voltmeter is used for measuring_________ ",
+      "answers": {
+        "a": "Current ",
+        "b": "Voltage ",
+        "c": "Resistance ",
+        "d": "Power "
+      },
+      "explanations": {
+        "a": "Incorrect. Current is measured using an ammeter.",
+        "b": "Correct. A voltmeter is used to measure voltage in the circuit.",
+        "c": "Incorrect. Resistance is measured using an ohmmeter or multimeter.",
+        "d": "Incorrect. Power is calculated using voltage and current, not directly measured with a voltmeter."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Calibration is used for measuring_____",
+      "answers": {
+        "a": "Accuracy",
+        "b": "Precision",
+        "c": "Deflection",
+        "d": " None of these"
+      },
+      "explanations": {
+        "a": "Calibration is used for measuring and improving the accuracy of an instrument or system.",
+        "b": "Incorrect. Precision refers to repeatability, not accuracy, and is not directly assessed through calibration.",
+        "c": "Incorrect. Deflection refers to needle movement in analog devices and is not the focus of calibration.",
+        "d": "Incorrect. Accuracy is the correct answer."
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]

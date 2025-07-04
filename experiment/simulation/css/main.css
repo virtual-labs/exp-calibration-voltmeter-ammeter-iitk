@@ -1,1 +1,236 @@
-/* You CSS goes in here */
+
+*{
+    /* margin: 0;
+    padding: 0; */
+    box-sizing: border-box;
+    font-family: "Piazzolla",serif;
+  }
+  html{
+    font-size: 82%;
+    /* 1rem= 10px */
+   
+  }
+  body{
+    height: 120vh;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  #spanning{
+  font-size: 2em;
+  margin-left: 50px;
+  }
+  
+  
+  .sidepanel  {
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  height: 250px;
+  top: 0;
+  right: 0;
+  background-color: #fcbcbc;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 30x;
+  }
+  #lists{
+  margin-left: 20px;
+  padding: 8px 8px 8px 32px;
+  color:rgb(7, 7, 7);
+  
+  }
+  .sidepanel a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #fff7f7;
+  display: block;
+  transition: 0.3s;
+  }
+  
+  .sidepanel a:hover {
+  color: #6b6969;
+  }
+  
+  .sidepanel .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  }
+  
+  .openbtn {
+  font-size: 20px;
+  cursor: pointer;
+  background-color: #456fe1;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 10px;
+  border: none;
+  animation: glowing 1300ms 5;
+  }
+  
+  
+  
+  
+  .openbtn:hover {
+  background-color:#f8f7f7;
+  color: #e14545#de2a09;
+  }
+  li{
+  margin:10px;
+  font-size: 15px;
+  } 
+  .mainSvg{
+    padding: 2em;
+    margin: 10px;
+    border: 10px solid #0f9c29;
+    box-shadow:2px 2px 5px 4px rgba(14, 7, 7, 0.61);
+    border-radius: 10px;
+    height: 100%;
+    object-fit: contain;
+  }
+  .exp{
+    background-color: rgb(70, 103, 126);
+    /* background-color: #139e8e; */
+    color: white;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 0;
+    border-radius: 15px;
+  }
+  .svg{
+    width: 95em;
+    height: 60em;
+    
+    margin-top: .5em;
+    margin-left: auto; 
+    margin-right: auto;
+    margin-bottom: 1em;
+    /* background-color:red !important; */
+     }
+  /* table, th, td {
+    border: 1px solid black;
+    border-radius: 2px;
+    width:10%;
+  } */
+  #tab1 {
+    margin-top: 5px;
+    margin-left: 40px;
+    width: 40%;
+    border: 2px solid black;
+  
+  }
+  
+  td {
+    background-color: #96D4D4;
+  }
+  
+  td {
+    background-color: #96D4D4;
+  }
+  
+  input {
+    width: 60px;
+  }
+  
+  .slider {
+    width: 150px;
+    color: rgb(240, 8, 182);
+    border: 2px solid black;
+  }
+  
+  #input {
+    margin-top: 30px;
+    margin-right: 80px;
+  }
+  
+  
+  /* --------------------- voltage range css ------------ */
+  .control-grp {
+    margin: 30px 0 0 100px;
+    font-size: 1.3rem;
+  
+  }
+  
+  .control-grp input[type="range"] {
+    width: 100px;
+  }
+  
+  
+  /* .customers{
+    /* margin: 10px; */
+  /* } */ 
+  table{
+    /* margin margin-top:20px; */
+    margin-left: auto; 
+  margin-right: auto;
+  margin-top: 200px;
+   
+    padding: auto;
+    background-color: rgb(14, 193, 142);
+  }
+  th{
+    font-size: 1.5em;
+    padding: 5px 6px 4px 5px;
+    text-align: left;
+    /* background-color: rgb(247, 148, 118); */
+    background-color: #4babb8;
+  }
+  td{
+    border: 0px;
+    font-size: 25px;
+  }
+  
+  
+  /* #thickness2 {
+    width: 200px;
+    margin: 10px auto;
+  } */
+   
+  .customers input{
+   /* max-width: 130px; */
+   width: 100%;
+  }
+  
+  
+  
+  #btn-add{
+  width: 160px;
+  /* margin-top: 20px; */
+  text-align: center;
+  padding: 8px;
+  border-radius: 5px;
+  background-color:#42040a;
+  color: white;
+  cursor: pointer;
+  font-size: larger;
+  font-weight: bolder;
+  
+  }
+  
+  .voltage-box-1 input{
+    display: inline;
+  }
+  #voltage-1-display{
+    padding-left: 6px;
+  }
+  
+  
+  
+  
+  
+  #print {
+    height: 50px;
+    width: 10%;
+    background-color: #d9910b;
+    color: white;
+    margin-top: 10px;
+    margin-left: 85%;
+    font-size: large;
+    border-radius: 6px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
