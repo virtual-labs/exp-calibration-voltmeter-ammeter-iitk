@@ -16,9 +16,10 @@
 
 4. **Calculate Percentage Error:**
    - For each observation, calculate the percentage error using the formula:
-     ```
+     <!-- ```
      Percentage Error = (|Testing Value - Standard Value| / Standard Value) * 100
-     ```
+     ``` -->
+     <img src="pro_eq_1.png"><br>
 
 5. **Repeat if Necessary:**
    - Check consistency of readings and repeat the measurements if needed to ensure accuracy.
@@ -43,9 +44,10 @@
 
 5. **Calculate Percentage Error:**
    - For each observation, calculate the percentage error using the formula:
-     ```
+     <!-- ```
      Percentage Error = (|Testing Value - Standard Value| / Standard Value) * 100
-     ```
+     ``` -->
+     <img src="pro_eq_2.png"><br>
 
 6. **Repeat if Necessary:**
    - Check the consistency of readings and repeat the measurements if needed.
