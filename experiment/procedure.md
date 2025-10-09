@@ -15,10 +15,10 @@
    - Perform at least six observations across the range of the ammeter.
 
 4. **Calculate Percentage Error:**
-   - For each observation, calculate the percentage error using the formula:
-     ```
-     Percentage Error = (|Testing Value - Standard Value| / Standard Value) * 100
-     ```
+   - For each observation, calculate the percentage error using the formula: <br><br>
+     
+     <b>Percentage Error = (|Testing Value - Standard Value| / Standard Value) * 100</b> <br>
+     
 
 5. **Repeat if Necessary:**
    - Check consistency of readings and repeat the measurements if needed to ensure accuracy.
@@ -42,10 +42,10 @@
    - Perform at least six observations across the full voltage range of the voltmeter.
 
 5. **Calculate Percentage Error:**
-   - For each observation, calculate the percentage error using the formula:
-     ```
-     Percentage Error = (|Testing Value - Standard Value| / Standard Value) * 100
-     ```
+   - For each observation, calculate the percentage error using the formula: <br><br>
+    
+     <b>Percentage Error = (|Testing Value - Standard Value| / Standard Value) * 100</b>
+    
 
 6. **Repeat if Necessary:**
    - Check the consistency of readings and repeat the measurements if needed.
