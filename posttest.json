@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Internal resistance of an ideal ammeter is",
+      "answers": {
+        "a": "Zero",
+        "b": "Infinte",
+        "c": "Small",
+        "d": "Big"
+      },
+      "explanations": {
+        "a": "Internal resistance of an ideal ammeter is zero because it is connected in series and should not affect the current.",
+        "b": "An infinite resistance would block current, making the ammeter useless.",
+        "c": "A small resistance is acceptable in practical ammeters but not ideal ones.",
+        "d": "A big resistance would cause significant voltage drop and alter the current."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Which instrument has the lowest resistance",
+      "answers": {
+        "a": "Ammeter",
+        "b": "Voltmeter",
+        "c": "Megger",
+        "d": "Frequency Meter"
+      },
+      "explanations": {
+        "a": "An ammeter has very low resistance so it doesn't affect the circuit current. <a href='www.google.com'>here</a>",
+        "b": "A voltmeter must have high resistance to avoid drawing current from the circuit.",
+        "c": "A megger is used to measure high resistance, so it has high internal resistance.",
+        "d": "A frequency meter's resistance is not its defining characteristic and is typically higher than an ammeter's."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Which of the following is not correct?",
+      "answers": {
+        "a": "Voltmeter should have a very high resistance ",
+        "b": "An ammeter should have a very low resistance ",
+        "c": "A shunt should have a very low resistance",
+        "d": "An electronic voltmeter draws appreciable current from source"
+      },
+      "explanations": {
+        "a": "This is correct because a high-resistance voltmeter minimizes current draw from the circuit.",
+        "b": "This is correct since low resistance allows current to flow through the ammeter without obstruction.",
+        "c": "This is correct as a shunt diverts current and should not add resistance.",
+        "d": "This is incorrect. An electronic voltmeter is designed to draw minimal current."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Internal resistance of ideal voltmeter is",
+      "answers": {
+        "a": "Big",
+        "b": "Small",
+        "c": "Infinite",
+        "d": "Zero"
+      },
+      "explanations": {
+        "a": "A 'big' resistance is good, but an ideal voltmeter has infinite resistance.",
+        "b": "A small resistance would allow current to flow and disturb the circuit, which is undesirable.",
+        "c": "Correct. Infinite resistance ensures no current is drawn from the circuit.",
+        "d": "Zero resistance would short the circuit and is not ideal for a voltmeter."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Error of the measurement is the difference between",
+      "answers": {
+        "a": "True value and measured value ",
+        "b": "Precision and true value",
+        "c": "Measured value and precision",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Correct. Error is defined as the difference between the true value and the measured value. <a href='www.google.com'>here</a>",
+        "b": "Precision is about repeatability, not accuracy. This is incorrect.",
+        "c": "Measured value and precision are unrelated in defining error.",
+        "d": "Incorrect. Option (a) is the standard definition."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
